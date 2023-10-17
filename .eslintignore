@@ -1,0 +1,16 @@
+*.sh
+node_modules
+*.md
+*.woff
+*.html
+*.ttf
+.vscode
+.idea
+dist
+/public
+/docs
+.husky
+.local
+/bin
+Dockerfile
+/src/wx-components/**/*.*
